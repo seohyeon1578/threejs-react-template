@@ -1,4 +1,4 @@
-#Three.js-React-Template
+# Three.js-React-Template
 
 ## Setup
 
