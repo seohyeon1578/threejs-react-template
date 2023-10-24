@@ -1,18 +1,29 @@
 # Three.js-React-Template
+Three.js + React를 함께 사용할 수 있는 템플릿 입니다.
 
-## Setup
+## Getting Start
 
+install dependencies:
 ```bash
-#install dependencies
-npm i
-yarn add
+yarn
+```
 
-#Run the local server at lacalhost:3000
+Run the local server at lacalhost:3000:
+
+```
 yarn start
+```
 
-#Build
+Create the Build:
+```
 yarn build
+```
 
-#Test 
+Code Test:
+```
 yarn test
 ```
+
+## Feature
+- React.js
+- Three.js
